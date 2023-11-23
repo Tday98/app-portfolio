@@ -12,3 +12,7 @@ with col2:
     and a minor in Computer Science. I am currently working for Saint Luke's Health System but I also did a Software Engineering Internship with Cerner (now Oracle Health).
     """
     st.info(content)
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
